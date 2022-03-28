@@ -28,7 +28,7 @@ La práctica consiste en seguir tutoriales cortos disponibles en el sitio web [M
 
 Lea los siguiente tutorial y preste especial atención a los métodos de segmentación estudiados en clase.
 
--  [10 Clustering Algorithms with Python](https://machinelearningmastery.com/clustering-algorithms-with-python/) En este tutorial repasará el concepto de segmentación y tendrá una breve introducción a varios tipos de algoritmos de segmentación. 
+-  [10 Clustering Algorithms with Python](https://machinelearningmastery.com/clustering-algorithms-with-python/) En este tutorial repasará el concepto de segmentación y tendrá una breve introducción a varios tipos de algoritmos de segmentación. Preste especial atención a las técnicas vistas en clase. 
 -  [20%] En el `Notebook` que creará más adelante, agregue una celda con título __Resumen del Tutorial__ con un breve resumen en sus propias palabras (no más de 200) de lo aprendido en el tutorial.
 
 
