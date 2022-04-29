@@ -61,7 +61,7 @@ Hay una lista de posibles temas o herramientas que pueden consultar como punto d
 3. Tercera Entrega
 	
 		Presentación
-		Fecha: 20 de Junio
+		Fecha: 21 de Junio
 		Valor: 8 %
 
 	Esta entrega consiste en una presentación en clase de máximo 10 minutos. Deben estar presentes y participar todos los miembros del equipo.
