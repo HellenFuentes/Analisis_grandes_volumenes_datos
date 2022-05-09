@@ -72,7 +72,7 @@ Para la definición del problema los(as) estudiantes pueden seguir los aprendiza
 
 	El equipo debe realizar una presentación corta en clase (5-7 mins máximo) exponiendo de manera concisa todos los puntos arriba mencionados. Deben estar presentes y participar todos los miembros del equipo. Se debe entregar la presentación (también en formato PDF) junto con el documento. 
 
-3. Tercera Entrega
+3. Cuarta Entrega
 	
 		Presentación
 		Fecha: 18 de Julio
