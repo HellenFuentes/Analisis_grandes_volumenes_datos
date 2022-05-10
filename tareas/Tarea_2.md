@@ -1,7 +1,8 @@
 
 Universidad de Costa Rica  <br>
+Escuela de Ciencias de la Computación e Informática <br>
 CI-0163 - Análisis de Grandes Volúmenes de Datos <br>
-Período: II-2021 <br>
+Ciclo: I-2022 <br>
 Docente: Allan Berrocal Rojas
 
 ---
@@ -15,19 +16,16 @@ Para esta tarea puede utilizar ya sea la herramienta [`Jupyter Lab`](https://jup
 
 ## Contexto
 
-Esta tarea gira en torno a los conceptos de algoritmos de aprendizaje de máquina basados en Arboles de Decisión, Máquinas de Soporte Vectorial, Redes Neuronales y Redes Neuronales Profundas.
+Esta tarea gira en torno a los conceptos de algoritmos de aprendizaje de máquina basados en algoritmos de aprendizaje de máquina de los estudiados en clase hasta el momento (*DecisionTree*, *RandomForest*, *Extreme Gradient Boosting*, *Extra Trees*, o *Support Vector Machines*).
 
 
 ## Asignación
 
-1. Proponga un problema original de clasificación (binaria o multiclase), o un bien un problema de regresión e implemente un modelo para resolver dicho problema usando **al menos dos** algoritmos de aprendizaje de máquina de los estudiados en clase. 
+1. Proponga un problema original de clasificación (binaria o multiclase), o un bien un problema de regresión e implemente un modelo para resolver dicho problema usando **al menos dos** algoritmos de aprendizaje de máquina de los listados arriba. 
 
-2. Busque un *data set* público (libre elección) para utilizarlo en el problema planteado. Si el problema es de clasificación, su *data set* debe estar etiquetado. El *data set* no debe ser gigantesco pero sí grande dentro de lo que sea posible para su ambiente de trabajo. La riqueza de un *data set* no depende únicamente de su tamaño sino también de las características de los datos. Sin embargo, aara sacar mejor provecho de los algoritmos vistos a utilizar, procure conseguir un *data set* con no menos de 10 mil observaciones.  
+1. Busque un *data set* público (libre elección) para utilizarlo en el problema planteado. Si el problema es de clasificación, su *data set* debe estar etiquetado. El *data set* no debe ser gigantesco pero sí grande dentro de lo que sea posible para su ambiente de trabajo. La riqueza de un *data set* no depende únicamente de su tamaño sino también de las características de los datos. Sin embargo, aara sacar mejor provecho de los algoritmos vistos a utilizar, procure conseguir un *data set* con no menos de 10 mil observaciones.  
 
-3. Entre los algoritmos a utilizar, puede elegir entre *DecisionTree*, *RandomForest*, *Extreme Gradient Boosting*, *Support Vector Machines*, *Extra Trees*, *Multilayer Perceptron*, *Deep Neural Network*, entre otros. 
-
-4. Como sugerencia utilice las herramientas disponibles en la biblioteca de `scikit-learn`, pero no se limite a ellas. Si desea utilizar otras herramientas de su preferencia lo puede hacer. Al utilizar redes neuronales, puede utilizar el ambiente [`theano`](https://pypi.org/project/Theano/) o [`tensorflow`](https://www.tensorflow.org/) mediante el wrapper de [`keras`](https://keras.io/) tal y como se hizo en la **Práctica #5**.
-
+1. Como sugerencia utilice las herramientas disponibles en la biblioteca de `scikit-learn`, pero no se limite a ellas. Si desea utilizar otras herramientas de su preferencia lo puede hacer. 
 
 ## Evaluación
 
