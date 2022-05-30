@@ -10,11 +10,6 @@ Docente: Allan Berrocal Rojas
 # Práctica 8 - Análisis de Asociación
 
 
-revisar https://pbpython.com/market-basket-analysis.html
-
-revisar
-https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/
-
 ## Preliminares
 
 En esta práctica se utiliza la herramienta [`Jupyter Lab`](https://jupyter.org/index.html) que se mostró en clases. Alternativamente, usted puede hacer la práctica usando el servicio de `Google Cloud` llamado [Colab](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb#scrollTo=YHI3vyhv5p85)
