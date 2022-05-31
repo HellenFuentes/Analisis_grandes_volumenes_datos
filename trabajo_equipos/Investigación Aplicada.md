@@ -13,7 +13,7 @@ Esta asignación consiste en proponer un problema en el contexto de análisis de
 
 La asiganción se debe realizar en grupos de 2 o 3 personas.
 
-Para la definición del problema los(as) estudiantes pueden seguir los aprendizajes objenidos en las prácticas y tareas. Se recomienda discutir con el docente los problemas que sean de intreés del equipo para recibir retroalimentación. El tema debe ser discutido y aprobado por el docente antes de la primera presentación. 
+Para la definición del problema los(as) estudiantes pueden seguir los aprendizajes obtenidos en las prácticas y tareas. Se recomienda discutir con el docente los problemas que sean de intreés del equipo para recibir retroalimentación. El tema debe ser discutido y aprobado por el docente antes de la primera presentación. 
 
 ## II - Secuencia de Entregables
   
