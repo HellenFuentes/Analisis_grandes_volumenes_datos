@@ -61,10 +61,10 @@ Hay una lista de posibles temas o herramientas que pueden consultar como punto d
 3. Tercera Entrega
 	
 		Presentación
-		Fecha: 21 de Junio
+		Fecha: 28 de Junio
 		Valor: 8 %
 
-	Esta entrega consiste en una presentación en clase de máximo 10 minutos. Deben estar presentes y participar todos los miembros del equipo.
+	Esta entrega consiste en una presentación en clase de aproximadamente 10 minutos. Deben estar presentes y participar todos los miembros del equipo.
 
 	La presentación debe abarcar al menos las siguientes partes:
 	- Tema
@@ -72,7 +72,7 @@ Hay una lista de posibles temas o herramientas que pueden consultar como punto d
 	- Justificación del tema en el contexto de análisis de datos
 	- Demostración mediante un caso de uso <br>
 		Esta puede descomponerse en partes según el caso en cada equipo.	
-	- Retos encontrados y soluciones implementadas
+	- Retos encontrados y soluciones implementadas (opcional)
 	- Materiales utilizados (e.g. _datasets_, herramienta de software, equipo de cómputo)<br>
 		Si desean compartir su trabajo pueden colocarlo en un repositorio público e incluir un enlace al mismo en el documento entregado.
 	- Referencias consultadas
