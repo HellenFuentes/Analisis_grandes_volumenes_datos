@@ -52,7 +52,7 @@ Para la definición del problema los(as) estudiantes pueden seguir los aprendiza
 2. Tercera Entrega
 
 		Avance
-		Fecha: ~~28 de Junio~~ 05 de Julio
+		Fecha: 05 de Julio
 		Valor: 7 %
 
 	Entregar un documento corto (en formato PDF) con en nombre del grupo, nombre y carné de los(as) integrantes. El documento debe abarcar al menos las siguientes partes:
