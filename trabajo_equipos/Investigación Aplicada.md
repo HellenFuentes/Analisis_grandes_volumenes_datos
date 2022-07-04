@@ -52,7 +52,7 @@ Para la definición del problema los(as) estudiantes pueden seguir los aprendiza
 2. Tercera Entrega
 
 		Avance
-		Fecha: 28 de Junio
+		Fecha: ~~28 de Junio~~ 05 de Julio
 		Valor: 7 %
 
 	Entregar un documento corto (en formato PDF) con en nombre del grupo, nombre y carné de los(as) integrantes. El documento debe abarcar al menos las siguientes partes:
@@ -70,7 +70,7 @@ Para la definición del problema los(as) estudiantes pueden seguir los aprendiza
 	- Materiales utilizados (e.g. _datasets_, herramienta de software, equipo de cómputo)
 	- Referencias consultadas
 
-	El equipo debe realizar una presentación corta en clase (5-7 mins máximo) exponiendo de manera concisa todos los puntos arriba mencionados. Deben estar presentes y participar todos los miembros del equipo. Se debe entregar la presentación (también en formato PDF) junto con el documento. 
+	~~El equipo debe realizar una presentación corta en clase (5-7 mins máximo) exponiendo de manera concisa todos los puntos arriba mencionados. Deben estar presentes y participar todos los miembros del equipo. Se debe entregar la presentación (también en formato PDF) junto con el documento.~~ 
 
 3. Cuarta Entrega
 	
